@@ -1,6 +1,4 @@
 # Trend Analysis for Ford GoBike Share System
-## by Victoria Asefon
-
 
 ## Dataset
 
