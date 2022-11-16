@@ -30,7 +30,7 @@ The wrangled dataset, contains 2,409,222 trips and 10 Features. The features are
 
 - Trip durations ranges from  1 minute to about 80 minutes. The distribution is right-skewed on a linear scale but when plotted on a logarithmic scale, the distribution was roughly normal.
 
-- There is steady increase in thhe numer of trips up till Jul 2018. Demand reduced slightly in August and September and recovered in October 2018. However, there was a drastic decrease in demand in November and December 2018 and since then, demand has fluctuated monthly. Changes in number of monthly trips tend to be similar for both user types. 
+- There is steady increase in the number of trips up till Jul 2018. Demand reduced slightly in August and September and recovered in October 2018. However, there was a drastic decrease in demand in November and December 2018 and since then, demand has fluctuated monthly. Changes in number of monthly trips tend to be similar for both user types. 
 
 - During the day, the rush hours are between 8-9 am, and 5-6 pm in the evening. Although there are less "customers" than "suscribers" between 5am and 9am. However, from 10am to 4pm, the number of customers increased significantly than suscribers. Demand drops significantly on weekends, and slightly on Monday, Wednesday and Friday.
 
