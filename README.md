@@ -65,11 +65,4 @@ The wrangled dataset, contains 2,409,222 trips and 10 Features. The features are
 
 ## Additional information
 
-The dataset provided by udacity was for only the month of February 2019. After analyzing the data, I had more questions tat needed investigation and so I downloaded more data for better insights.
-
 Download the data [here](https://s3.amazonaws.com/fordgobike-data/index.html)
-
-
-```python
-
-```
