@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Ford GoBike is one of the largest public bicycle sharing system in San Francisco bay ares, US. This document explores a dataset containing Ford GoBike trip data for a period of 1 year between 1 April 2018 to 31 April 2019.
+Ford GoBike is one of the largest public bicycle sharing system in San Francisco bay ares, US. This document explores a dataset containing Ford GoBike trip data for a period of 1 year between 1 April 2018 to 31 April 2019. [View interactive dashboard](https://public.tableau.com/views/BayWheelsStationdashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The original dataset can be found here [here](https://s3.amazonaws.com/fordgobike-data/index.html), this is the dataset used in the exploratory-analysis notebook. The total dataset for the 1 year period contained 2,421,723 rows and 16 columns before data wrangling.
 
